@@ -2,7 +2,6 @@
 # Weather_Main
 
 Weather_Main is a weather application built with React that provides real-time weather data using the OpenWeather API.
-
 ## Features
 
 - View current weather conditions
@@ -12,7 +11,7 @@ Weather_Main is a weather application built with React that provides real-time w
 
 ## Demo
 
-[Live Demo](link_to_live_demo)
+[View Live](https://65fa53767590af0e824a54cd--splendid-biscuit-e3d37b.netlify.app/)
 
 ## Screenshots
 
