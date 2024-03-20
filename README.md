@@ -27,6 +27,10 @@ git clone https://github.com/your_username/Weather_Main.git
 2. Install dependencies:
 
 ```bash
+cd Weather_Main
+```
+
+```bash
 npm install
 ```
 
