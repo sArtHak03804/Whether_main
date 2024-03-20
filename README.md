@@ -15,9 +15,7 @@ Weather_Main is a weather application built with React that provides real-time w
 
 ## Screenshots
 
-![Screenshot 1](link_to_screenshot1.png)
-![Screenshot 2](link_to_screenshot2.png)
-
+![Screenshot 1](public/assets/Ss1.png)
 ## Installation
 
 1. Clone the repository:
@@ -41,7 +39,6 @@ npm start
 ## Usage
 
 - Enter a location in the search bar to get weather information for that location.
-- Toggle between hourly and daily forecasts.
 - Enjoy exploring the weather!
 
 ## Technologies Used
@@ -49,9 +46,6 @@ npm start
 - [![React](https://img.shields.io/badge/React-v17.0.2-blue.svg)](https://reactjs.org/)
 
 - [![OpenWeather](https://img.shields.io/badge/Weather%20data-OpenWeather-yellow)](https://openweathermap.org/)
-
-
-## Badges
 
 
 ## Contributing
